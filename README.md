@@ -10,7 +10,7 @@ This repository contains the code for the Assignment-3 of Distributed Systems(CS
 
 # Table of Contents
 
-- [Assignment-2 Distributed Systems](#assignment-2-distributed-systems)
+- [Assignment-3 Distributed Systems](#assignment-3-distributed-systems)
 - [Implementing a Write-Ahead Logging for consistency in Replicated Database with Sharding](#implementing-a-write-ahead-logging-for-consistency-in-replicated-database-with-sharding)
 - [Table of Contents](#table-of-contents)
 - [Group Details](#group-details)
